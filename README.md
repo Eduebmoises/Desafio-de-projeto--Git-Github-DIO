@@ -4,4 +4,4 @@
 O primeiro passo foi dado!!
 
 ##Links e referências
-[Site DIO](www.web.dio.me)
+[Site DIO](https://web.dio.me/)
