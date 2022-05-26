@@ -3,4 +3,5 @@
 
 O primeiro passo foi dado!!
 
-links úteis(www.web.dio.me)" site da dio "
+##Links e referências
+[Site DIO](www.web.dio.me)
